@@ -16,11 +16,14 @@ Node v18.12.1
 Web3.js v1.8.1
 Openzeppelin-solidity version is 2.3
 
-•	ERC-721 Token Name = “DecentralizedYellowSun”
-•	ERC-721 Token Symbol = SYD
-•	“Token Address” on the Goerli Network:
+ERC-721 Token Name = “DecentralizedYellowSun”
+
+ERC-721 Token Symbol = SYD
+
+“Token Address” on the Goerli Network:
 https://goerli.etherscan.io/address/0xFB1e9CF1D94fb443a07aA84DB5FAd869784dCa55
-•	Contract: 0xFB1e9CF1D94fb443a07aA84DB5FAd869784dCa55
+
+Contract: 0xFB1e9CF1D94fb443a07aA84DB5FAd869784dCa55
 
 https://github.com/get2shailesh/ND1309-P2-StarNotary-V1/blob/main/images/nd1309-p2-starnotary-img1.png
 
@@ -35,9 +38,11 @@ Testing at localhost:8080 is successful and Star is able to be created.
 https://github.com/get2shailesh/ND1309-P2-StarNotary-V1/blob/main/images/nd1309-p2-starnotary-img3.png
 
 Task 3: Contract was deployed on Goerli network.
-•	“Token Address” on the Goerli Network:
+
+“Token Address” on the Goerli Network:
 https://goerli.etherscan.io/address/0xFB1e9CF1D94fb443a07aA84DB5FAd869784dCa55
-•	Contract address: 0xFB1e9CF1D94fb443a07aA84DB5FAd869784dCa55
+
+Contract address: 0xFB1e9CF1D94fb443a07aA84DB5FAd869784dCa55
 
 Task 4: The Star is then successfully able to be looked up at localhost
 Condition when Star is found:
